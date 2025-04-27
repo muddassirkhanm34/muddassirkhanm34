@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @muddassirkhanm34
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java and C++ projects
+- 👀 I’m interested in coding (C++, C#, Python)
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on C#, Python and C++ projects
 - 📫 How to reach me muddassirkhanm34@gmail.com
 - 😄 Pronouns: nothing yet 😄
 - ⚡ Fun fact: I do what the ordanary fears........
